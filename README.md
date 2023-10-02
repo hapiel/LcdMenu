@@ -1,3 +1,6 @@
+This fork adds a function to redraw the screen without clearing the screen. It may seem odd but I needed that function.
+It's being used in https://github.com/hapiel/Acrobot
+
 # LcdMenu 📟
 
 [![arduino-library-badge](https://www.ardu-badge.com/badge/LcdMenu.svg?)](https://www.ardu-badge.com/LcdMenu)
